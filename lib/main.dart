@@ -47,11 +47,3 @@ class DicePage extends StatelessWidget {
     );
   }
 }
-
-
-// ajflkjdfa
-// ajfkjasklfjsf
-// fkljalskfajsklfjklsjf
-// fjlafljahlfjhsaf
-// afl afljlsflksaf
-// j jlhfjlaf
