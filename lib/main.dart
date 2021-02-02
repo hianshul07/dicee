@@ -21,6 +21,8 @@ void main() {
 }
 
 class DicePage extends StatelessWidget {
+  int die2Number = 4;
+
   @override
   Widget build(BuildContext context) {
     return Center(
@@ -32,7 +34,7 @@ class DicePage extends StatelessWidget {
               onPressed: () {
                 print('henlo');
               },
-              child: Image.asset('images/one.png'),
+              child: Image.asset('images/dice$die2Number.png'),
             ),
           ),
           Expanded(
@@ -45,3 +47,11 @@ class DicePage extends StatelessWidget {
     );
   }
 }
+
+
+// ajflkjdfa
+// ajfkjasklfjsf
+// fkljalskfajsklfjklsjf
+// fjlafljahlfjhsaf
+// afl afljlsflksaf
+// j jlhfjlaf
